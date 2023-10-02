@@ -58,5 +58,56 @@
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
     "inStock": true,
     "categoryId": "xasgy42fa"
+  },
+  {
+    "id": "7a",
+    "name": "Dell XPS 13",
+    "price": 1099,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/410cdVmBDWL._SX300_SY300_QL70_FMwebp_.jpg",
+    "inStock": true,
+    "categoryId": "gtye6723tb"
+  },
+  {
+    "id": "7b",
+    "name": "MacBook Air",
+    "price": 999,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg",
+    "inStock": false,
+    "categoryId": "gtye6723tb"
+  },
+  {
+    "id": "7c",
+    "name": "HP Spectre x360",
+    "price": 1299,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/519gubuLlOL._SX300_SY300_QL70_FMwebp_.jpg",
+    "inStock": true,
+    "categoryId": "gtye6723tb"
+  },
+  {
+    "id": "7d",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1199,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/71IdnLez7TL._AC_UF1000,1000_QL80_.jpg",
+    "inStock": false,
+    "categoryId": "gtye6723tb"
+  },
+  {
+    "id": "7e",
+    "name": "Asus ROG Zephyrus G14",
+    "price": 1499,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/41uOGrIaPvL._SX300_SY300_QL70_FMwebp_.jpg",
+    "inStock": true,
+    "categoryId": "gtye6723tb"
   }
+  
 ]
