@@ -1,0 +1,6 @@
+/* Home.css */
+.card-hover:hover {
+    transform: scale(1.05); /* Scale up the card slightly on hover */
+    transition: transform 0.2s ease-in-out; /* Add a smooth transition effect */
+  }
+  
